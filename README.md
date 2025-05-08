@@ -11,3 +11,5 @@ The models and code which created these maps will be published shortly in [Natur
 - [EPM Upland Drainage and Erosion Features Model](www.github.com/naturalengland/EPM_drainage_erosion_v1)
 
 All outputs are published under the Open Government Licence.   
+
+For further information, please contact peatmap@naturalengland.org.uk
